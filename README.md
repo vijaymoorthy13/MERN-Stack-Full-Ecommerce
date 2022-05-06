@@ -1,5 +1,39 @@
 # MERN-Stack-Full-Ecommerce
 
+Full-Stack Ecommerce with Admin Dashboard & stripe payment
+
+**Frontend:**
+Reactjs,React Router,reactRedux,mui,react-chart-js
+
+**Backend:**
+Nodejs,Expressjs,mongoDB,nodeMailer,jwt,cloudinary 
+
+**Payment Gateway:**
+Stipe
+
+**Deployed On:**
+Heroku
+
+##  Features
+- Login/Signup User Account
+- Update Profile/Password User Account
+- Reset Password Mail using nodeMailer
+- Cart Add/Remove Items | Update Quantities
+- Products Pagination (Default 8 Products Per Page)
+- Product Search
+- Product Filters Based on Category/Ratings | Price Range
+- Order Info in Session Storage
+- Order Details of All Ordered Item
+- Review Products User Account
+- Admin: Dashboard access to only admin roles
+- Admin: Update Order Status | Delete Order
+- Admin: Add / Update / Delete Products
+- Admin: Update User Data | Delete User
+- Admin: List Review of Product | Delete Review
+- Stock Management: Decrease stock of product when shipped
+
+Preview Images
+
 Home page
 ![Home](https://user-images.githubusercontent.com/85095015/167061875-42c2ac50-6824-4db4-b700-973a0f952e58.png)
 
