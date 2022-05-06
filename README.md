@@ -13,7 +13,7 @@ Stipe
 
 **Deployed On:**
 Heroku
-http://mern-stackecommerce-store.herokuapp.com
+https://mern-stackecommerce-store.herokuapp.com
 
 ##  Features
 - Login/Signup User Account
